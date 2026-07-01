@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Mudit! 👋 🚀
 
-<!--
-**MUDIT-SHARMA-129/MUDIT-SHARMA-129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🎓 **Current Status:** 11th-grade student from India.
+- 💡 **My Passion:** Exploring computer science, logic, and software creation.
+- 🌱 **Learning Goal:** Mastering programming basics and building my first real-world apps.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack I'm Exploring
+Here are the technologies and tools I am actively learning right now:
+
+<p align="left">
+  <!-- Python -->
+  <img src="https://shields.io" alt="Python" />
+  <!-- HTML5 -->
+  <img src="https://shields.io" alt="HTML5" />
+  <!-- CSS3 -->
+  <img src="https://shields.io" alt="CSS3" />
+  <!-- Git -->
+  <img src="https://shields.io" alt="Git" />
+</p>
+
+---
+
+### 🎯 My Goals for This Year
+- [ ] Complete my school computer science curriculum with top marks.
+- [ ] Build 3 standalone mini-projects (like a calculator or a simple game).
+- [ ] Maintain a clean, organized GitHub profile for my schoolwork.
+
+---
+
+### 🌐 Connect with Me
+[![X/Twitter](https://shields.io)](https://x.com)
+
+*“The best way to predict the future is to invent it.”* 💻✨
