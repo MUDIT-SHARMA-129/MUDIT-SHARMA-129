@@ -30,7 +30,3 @@ Here are the technologies and tools I am actively learning right now:
 
 ---
 
-### 🌐 Connect with Me
-[![X/Twitter](https://shields.io)](https://x.com)
-
-*“The best way to predict the future is to invent it.”* 💻✨
